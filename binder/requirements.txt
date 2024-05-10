@@ -1,5 +1,2 @@
-image: python
-
-dependencies:
-  - pandas
-  - scikit-learn
+pandas
+scikit-learn
